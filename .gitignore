@@ -1,0 +1,4 @@
+*.csv
+*.txt
+*.gz
+Gemfile.lock
